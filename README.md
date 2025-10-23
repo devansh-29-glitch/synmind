@@ -14,7 +14,7 @@ In neuroscience, Daniel Kahneman described two systems of thought:
 - **System 2** - slow, logical, deliberate.
 
 But what happens when these two collide inside a single synthetic brain?  
-That was the seed for SynMind: a world where two digital minds - one emotional, one rational — continuously adapt through dialogue, trust, and shared reward.  
+That was the seed for SynMind: a world where two digital minds - one emotional, one rational. They continuously adapt through dialogue, trust, and shared reward.  
 
 It’s not just AI.  
 It’s the first computational partnership between intuition and logic.
