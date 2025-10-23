@@ -1,5 +1,5 @@
 
-# 🧠 Project SynMind — The Neural Symbiosis Model  
+# 🧠 Project SynMind - The Neural Symbiosis Model  
 **“Two minds. One conversation.”**
 
 ## 🔹 The Origin
@@ -121,18 +121,18 @@ What I have made is "deep feeling", not deep learning
 
 ## 🔹 The Process: Four Phases of Development
 
-### **Phase I — Dual Brain Construction**
+### **Phase I - Dual Brain Construction**
 
 We built two independent neural agents with distinct personalities:
 
-> The Emotional Agent — low-dimensional, noisy, volatile, and biased toward affective extremes.  
-> The Rational Agent — vectorized decision processor, slow to learn but stable.
+> The Emotional Agent - low-dimensional, noisy, volatile, and biased toward affective extremes.  
+> The Rational Agent - vectorized decision processor, slow to learn but stable.
 
 They started unaware of each other like two egos trapped in code.
 
 ---
 
-### **Phase II — Symbiosis Trainer**
+### **Phase II - Symbiosis Trainer**
 
 Then came the Symbiosis Trainer, our “coach.”  
 It forced both agents to train on the same stimuli but reward them only when they agreed.  
@@ -144,9 +144,9 @@ That simple mechanism gave rise to an emergent property — mutual adaptation.
 
 ---
 
-### **Phase III — Dialogue & Conflict Resolution**
+### **Phase III - Dialogue & Conflict Resolution**
 
-We introduced the Dialogue Engine — a bridge between their emotional and rational languages.  
+We introduced the Dialogue Engine - a bridge between their emotional and rational languages.  
 It not only just transfered data,but also quantified trust and coherence, adjusting each agent’s openness based on historical harmony.
 
 > When they disagreed too often, trust fell.  
@@ -155,7 +155,7 @@ It not only just transfered data,but also quantified trust and coherence, adjust
 
 ---
 
-### **Phase IV — Visualization & Dashboard**
+### **Phase IV - Visualization & Dashboard**
 
 Finally, we gave them a voice.  
 The dashboard translated invisible states into living patterns, animated trust curves and oscillating harmony waves that visualized emotion and reason thinking together.
@@ -169,9 +169,9 @@ The dashboard translated invisible states into living patterns, animated trust c
 
 SynMind bridges three domains rarely merged:
 
-- **Neuroscience** → emotion–reason interplay  
-- **Reinforcement learning** → adaptive co-training  
-- **Philosophy of mind** → emergent cooperation  
+- **Neuroscience** -> emotion–reason interplay  
+- **Reinforcement learning** -> adaptive co-training  
+- **Philosophy of mind** -> emergent cooperation  
 
 It shows not just that machines can learn, but that learning itself is a dialogue.
 
