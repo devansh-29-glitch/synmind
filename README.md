@@ -10,8 +10,8 @@ SynMind began with a question that no neural network ever asked:
 
 In neuroscience, Daniel Kahneman described two systems of thought:
 
-- **System 1** — fast, emotional, instinctive.
-- **System 2** — slow, logical, deliberate.
+- **System 1** - fast, emotional, instinctive.
+- **System 2** - slow, logical, deliberate.
 
 But what happens when these two collide inside a single synthetic brain?  
 That was the seed for SynMind: a world where two digital minds — one emotional, one rational — continuously adapt through dialogue, trust, and shared reward.  
@@ -32,7 +32,7 @@ It’s the first computational partnership between intuition and logic.
 ## 🔹 The Concept
 
 At its core, SynMind is a co-evolutionary cognitive system.  
-Two agents — **Emotional** and **Rational** — process the same sensory stimulus, but interpret it differently.
+Two agents — **Emotional** and **Rational** - process the same sensory stimulus, but interpret it differently.
 
 Each cycle:
 
@@ -67,7 +67,7 @@ It’s an artificial reconciliation of the human psyche.
 
 1. **Input stimuli** → both agents receive the same data.
 2. **Emotion** produces a fast affective prediction (e.g., intensity, etc)
-3. **Reason** processes the same input analytically → logical decision value.
+3. **Reason** processes the same input analytically -> logical decision value.
 4. **Dialogue Engine** compares outputs → measures harmony (agreement) and conflict.
 5. **Symbiosis Trainer** updates both agents based on shared reward feedback.
 
