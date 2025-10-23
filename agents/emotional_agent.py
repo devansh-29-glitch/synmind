@@ -1,4 +1,3 @@
-# agents/emotional_agent.py
 import numpy as np
 from dataclasses import dataclass
 
@@ -30,7 +29,6 @@ class EmotionalAgent:
         self.w += np.clip(self.lr * (err * grad - self.reg * self.w), -1, 1)
         self.bias = np.clip(self.bias + 0.01 * err, -1, 1)
 
-        # Prevent overflow and NaN
         self.w = np.clip(self.w, -5, 5)
         if np.isnan(self.w).any():
             self.w = np.random.uniform(-0.1, 0.1, size=self.w.shape)
