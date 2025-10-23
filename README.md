@@ -86,10 +86,10 @@ reward = α*harmony + β*consistency
 emotion.update(reward)
 reason.update(reward)
 
-Over time, both systems stabilize around mutual trust — a numerical form of understanding.
+Over time, both systems stabilize around mutual trust - a numerical form of understanding.
 
 The result?  
-Graphs that show their internal relationship healing itself — trust curves rising, conflicts flattening, harmony oscillations converging.
+Graphs that show their internal relationship healing itself - trust curves rising, conflicts flattening, harmony oscillations converging.
 
 ---
 
