@@ -66,7 +66,7 @@ It’s an artificial reconciliation of the human psyche.
 ### 🧠 Data Flow
 
 1. **Input stimuli** → both agents receive the same data.
-2. **Emotion** produces a fast affective prediction (e.g., intensity, pl
+2. **Emotion** produces a fast affective prediction (e.g., intensity, etc)
 3. **Reason** processes the same input analytically → logical decision value.
 4. **Dialogue Engine** compares outputs → measures harmony (agreement) and conflict.
 5. **Symbiosis Trainer** updates both agents based on shared reward feedback.
@@ -103,7 +103,7 @@ We built a real-time visual dashboard that breathes.
 > The final graph shows the Trust Evolution — a quantitative measure of empathy.
 
 Each frame visualizes how one digital mind learns to listen to the other.  
-It’s not deep learning — it’s deep feeling.
+What I have made is "deep feeling", not deep learning
 
 ---
 
@@ -128,7 +128,7 @@ We built two independent neural agents with distinct personalities:
 > The Emotional Agent — low-dimensional, noisy, volatile, and biased toward affective extremes.  
 > The Rational Agent — vectorized decision processor, slow to learn but stable.
 
-They started unaware of each other — two egos trapped in code.
+They started unaware of each other like two egos trapped in code.
 
 ---
 
@@ -147,22 +147,21 @@ That simple mechanism gave rise to an emergent property — mutual adaptation.
 ### **Phase III — Dialogue & Conflict Resolution**
 
 We introduced the Dialogue Engine — a bridge between their emotional and rational languages.  
-It didn’t just transfer data.  
-It quantified trust and coherence, adjusting each agent’s openness based on historical harmony.
+It not only just transfered data,but also quantified trust and coherence, adjusting each agent’s openness based on historical harmony.
 
 > When they disagreed too often, trust fell.  
 > When they aligned, trust grew.  
-> Their learning became contextual — influenced by their relationship.
+> Their learning became contextual , influenced by their relationship.
 
 ---
 
 ### **Phase IV — Visualization & Dashboard**
 
 Finally, we gave them a voice.  
-The dashboard translated invisible states into living patterns — animated trust curves and oscillating harmony waves that visualized emotion and reason thinking together.
+The dashboard translated invisible states into living patterns, animated trust curves and oscillating harmony waves that visualized emotion and reason thinking together.
 
-> This isn’t a static ML model.  
-> It’s a living dialogue that you can watch unfold.
+> It isn’t just a static ML model.  
+> It’s a living dialogue that we can watch unfold.
 
 ---
 
