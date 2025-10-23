@@ -32,7 +32,7 @@ It’s the first computational partnership between intuition and logic.
 ## 🔹 The Concept
 
 At its core, SynMind is a co-evolutionary cognitive system.  
-Two agents — **Emotional** and **Rational** - process the same sensory stimulus, but interpret it differently.
+Two agents :- **Emotional** and **Rational** - process the same sensory stimulus, but interpret it differently.
 
 Each cycle:
 
@@ -65,7 +65,7 @@ It’s an artificial reconciliation of the human psyche.
 
 ### 🧠 Data Flow
 
-1. **Input stimuli** → both agents receive the same data.
+1. **Input stimuli** -> both agents receive the same data.
 2. **Emotion** produces a fast affective prediction (e.g., intensity, etc)
 3. **Reason** processes the same input analytically -> logical decision value.
 4. **Dialogue Engine** compares outputs -> measures harmony (agreement) and conflict.
