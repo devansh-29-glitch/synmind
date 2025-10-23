@@ -68,7 +68,7 @@ It’s an artificial reconciliation of the human psyche.
 1. **Input stimuli** → both agents receive the same data.
 2. **Emotion** produces a fast affective prediction (e.g., intensity, etc)
 3. **Reason** processes the same input analytically -> logical decision value.
-4. **Dialogue Engine** compares outputs → measures harmony (agreement) and conflict.
+4. **Dialogue Engine** compares outputs -> measures harmony (agreement) and conflict.
 5. **Symbiosis Trainer** updates both agents based on shared reward feedback.
 
 Each iteration isn’t just computation. **It’s communication.**
@@ -100,7 +100,7 @@ We built a real-time visual dashboard that breathes.
 
 > The top graph pulses with Reward-Harmony-Certainty curves.  
 > The middle panel shows Emotional vs Rational trajectories.  
-> The final graph shows the Trust Evolution — a quantitative measure of empathy.
+> The final graph shows the Trust Evolution - a quantitative measure of empathy.
 
 Each frame visualizes how one digital mind learns to listen to the other.  
 What I have made is "deep feeling", not deep learning
@@ -136,7 +136,7 @@ They started unaware of each other like two egos trapped in code.
 
 Then came the Symbiosis Trainer, our “coach.”  
 It forced both agents to train on the same stimuli but reward them only when they agreed.  
-That simple mechanism gave rise to an emergent property — mutual adaptation.
+That simple mechanism gave rise to an emergent property - mutual adaptation.
 
 > By the 50th epoch, emotion began to anticipate reason.  
 > By the 200th, reason softened its rigidity.  
@@ -146,7 +146,7 @@ That simple mechanism gave rise to an emergent property — mutual adaptation.
 
 ### **Phase III - Dialogue & Conflict Resolution**
 
-We introduced the Dialogue Engine - a bridge between their emotional and rational languages.  
+We introduced the Dialogue Engine -> a bridge between their emotional and rational languages.  
 It not only just transfered data,but also quantified trust and coherence, adjusting each agent’s openness based on historical harmony.
 
 > When they disagreed too often, trust fell.  
@@ -179,6 +179,6 @@ It shows not just that machines can learn, but that learning itself is a dialogu
 
 ## 🔹 In One Sentence
 
-> “SynMind isn’t about emotion or reason — it’s about how the space between them becomes intelligence.”
+> “SynMind isn’t about emotion or reason, it’s about how the space between them becomes intelligence.”
 
 ---
