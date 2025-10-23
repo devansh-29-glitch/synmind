@@ -1,4 +1,3 @@
-# run_synmind.py
 import numpy as np
 from pathlib import Path
 from tqdm import trange
