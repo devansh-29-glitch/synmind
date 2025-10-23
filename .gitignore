@@ -1,4 +1,3 @@
-
 __pycache__/
 *.py[cod]
 *.pyo
@@ -16,27 +15,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-
 logs/
 *.jsonl
 *.csv
 *.h5
 *.pkl
-
-
 Thumbs.db
 desktop.ini
-
-
 assets/*.gif
 assets/*.mp4
-
-
 .vscode/
 .idea/
-
-# --- Colab and Notebook outputs ---
 .ipynb_checkpoints/
 *.nbconvert.ipynb
-
