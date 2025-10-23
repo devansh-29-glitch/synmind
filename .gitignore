@@ -1,4 +1,4 @@
-# --- Python ---
+
 __pycache__/
 *.py[cod]
 *.pyo
@@ -17,22 +17,22 @@ ENV/
 env.bak/
 venv.bak/
 
-# --- Data / logs / outputs ---
+
 logs/
 *.jsonl
 *.csv
 *.h5
 *.pkl
 
-# --- OS junk ---
+
 Thumbs.db
 desktop.ini
 
-# --- Assets ---
+
 assets/*.gif
 assets/*.mp4
 
-# --- IDE / VS Code ---
+
 .vscode/
 .idea/
 
