@@ -1,4 +1,3 @@
-# agents/rational_agent.py
 import numpy as np
 from dataclasses import dataclass
 
