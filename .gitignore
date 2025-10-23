@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.egg-info/
+.env
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Data / logs / outputs ---
+logs/
+*.jsonl
+*.csv
+*.h5
+*.pkl
+
+# --- OS junk ---
+Thumbs.db
+desktop.ini
+
+# --- Assets ---
+assets/*.gif
+assets/*.mp4
+
+# --- IDE / VS Code ---
+.vscode/
+.idea/
+
+# --- Colab and Notebook outputs ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
