@@ -1,4 +1,4 @@
-# dashboard/live_dashboard.py
+
 import json, time, os
 from pathlib import Path
 import matplotlib.pyplot as plt
